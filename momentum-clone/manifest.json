@@ -1,0 +1,13 @@
+{
+  "manifest_version":2,
+  "name":"Momentum Clone",
+  "version": "1.0.0",
+  "description":"Dummy momentum clone",
+  "chrome_url_overrides":{
+    "newtab": "index.html"
+  },
+  "permissions":[
+    "geolocation",
+    "storage"
+  ]
+}
